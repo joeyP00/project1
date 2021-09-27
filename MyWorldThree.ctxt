@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyWorldThree
+comment1.params=
+comment1.target=MyWorldThree()
+comment2.params=tiles
+comment2.target=void\ buildWorld(java.lang.String[][])
+comment3.params=
+comment3.target=void\ act()
+numComments=4
